@@ -19,3 +19,5 @@ As this year was 2020 and coronavirus was at it's peak, lockdown procedures were
 
 ### How it was hosted
 The bot was hosted on AWS which allowed it to be online 24/7 whenever a student needed it.
+
+***DISCLAIMER - All student rep names and discord bot key were replaced with placeholders for security and data protection***
